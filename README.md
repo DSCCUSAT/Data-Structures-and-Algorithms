@@ -1,7 +1,7 @@
 ![GDSC Cusat](./assets/gdsc-logo.png)
 
-<center><h1>Data-Structures-and-Algorithms</h1></center>
-<center><h4>GDSC CUSAT</h4></center>
+<h1 align="center">Data-Structures-and-Algorithms</h1></center>
+<h4 align="center">GDSC CUSAT</h4>
 
 ## Content
 
