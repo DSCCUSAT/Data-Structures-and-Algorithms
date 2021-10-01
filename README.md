@@ -19,6 +19,8 @@
 
 You can get your own fork/copy of [DS-Algo Notes](https://github.com/DSCCUSAT/Data-Structures-and-Algorithms) by using the <a href="https://github.com/DSCCUSAT/Data-Structures-and-Algorithms.git"><kbd><b>Fork</b></kbd></a> button.
 
+![Fork SS](./assets/fork.png)
+
 ### 2. Cloning
 
 You need to clone (download) it to local machine using
@@ -55,7 +57,7 @@ $ git push origin master
 
 ### 4. Let's Contribute
 
-Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/jainaman224/Data-Structures-and-Algorithms/pulls).
+Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/DSCCUSAT/Data-Structures-and-Algorithms/pulls).
 
 ### 5. Creating a new branch
 
