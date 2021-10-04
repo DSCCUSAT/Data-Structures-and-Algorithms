@@ -2,11 +2,13 @@
 
 #include<bits/stdc++.h>
 using namespace std;
+
 int main(){
- int n; // size of array
+ int n;                                // size of array
  cout<<"enter size of array"<<endl;
  cin>>n;
  int arr[n]; // array to store all the elements
+ 
  cout<<"Enter array element\n";
  for(int i=0 ;i<n;i++){
      cin>>arr[i]; // loop for entering array
@@ -30,10 +32,9 @@ int main(){
  if(flag == 0){
     cout<<"Not present"<<endl;
  } else {
- cout<<"present \n position"<<lastpos<<endl; // time compx O(n)
- //cout<<count<<endl;
+ cout<<"present \n position"<<lastpos<<endl;                      // time compx  O(n)
+  //cout<<count<<endl;
  }
 
 return 0;
 }
-
